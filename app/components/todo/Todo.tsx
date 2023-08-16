@@ -16,11 +16,7 @@ export function Todo({
 }: PropsWithoutRef<Props>) {
   return (
     <div id={`todo-${todo.id}`}>
-      <input
-        className="hidden"
-        type="checkbox"
-        defaultChecked={todo.completed}
-      />
+      <input className="hidden" type="checkbox" />
 
       <label
         className={`flex items-center rounded ${
