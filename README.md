@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+![Alt text](app/assets/app.png?raw=true "App screenshot")
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
